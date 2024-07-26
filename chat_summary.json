@@ -12,5 +12,11 @@
         "content": "Change the hero text",
         "timestamp": "26072024130128",
         "message_id": "guest26072024130128"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on changing the hero text.",
+        "timestamp": "26072024130129",
+        "message_id": "guest26072024130128"
     }
 ]
