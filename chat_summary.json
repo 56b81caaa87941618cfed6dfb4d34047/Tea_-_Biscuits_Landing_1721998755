@@ -6,5 +6,11 @@
         "timestamp": "1721998756",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the hero text",
+        "timestamp": "26072024130128",
+        "message_id": "guest26072024130128"
     }
 ]
