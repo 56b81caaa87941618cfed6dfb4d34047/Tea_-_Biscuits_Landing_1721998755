@@ -9,11 +9,11 @@ Vue.component("simple_hero_component_1721998819", {
                 <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
                     
                     <div id="hero-title-container-text" class="flex">
-                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Discover the Perfect Pairing</h1>
+                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Experience Tea and Biscuit Harmony</h1>
                     </div>
 
                     <div id="hero-subtitle-container" class="flex">
-                        <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Indulge in the Finest Teas and Biscuits</p>
+                        <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Elevate Your Tea Time with Exquisite Pairings</p>
                     </div>
 
                     <div id="hero-buttons-container" class="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
