@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a text animation for the hero section to grab attention\", \"checked\": true}, {\"feature\": \"Implement a typewriter effect for dynamic hero text\", \"checked\": false}, {\"feature\": \"Include a customizable font size and style option for hero text\", \"checked\": true}, {\"feature\": \"Offer multilingual support for the hero text to reach a broader audience\", \"checked\": false}, {\"feature\": \"Integrate an option to change hero text background for better contrast and readability\", \"checked\": true}], \"input_token_count\": 211, \"output_token_count\": 109, \"time_taken\": \"0:00:03.342738\"}",
         "timestamp": "26072024130132",
         "message_id": "guest26072024130128"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new hero text to also change in style (font, size, color) or just the text content itself?\", \"option1\": \"Change both style and content.\", \"option2\": \"Change only the text content.\"}, {\"question 2\": \"Is there a specific tone or message you want the new hero text to convey to better represent the theme of tea and biscuits?\", \"option1\": \"Yes, more inviting and warm.\", \"option2\": \"Yes, more informative and direct.\"}], \"input_token_count\": 257, \"output_token_count\": 117, \"time_taken\": \"0:00:03.726764\"}",
+        "timestamp": "26072024130133",
+        "message_id": "guest26072024130128"
     }
 ]
