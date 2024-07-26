@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on changing the hero text.",
+        "message_id": "guest26072024130128",
+        "timestamp": "26072024130129",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the hero text",
         "message_id": "guest26072024130128",
